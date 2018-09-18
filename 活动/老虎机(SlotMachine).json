@@ -102,9 +102,9 @@
     "close_button4": "去查看"
   },
   "zh-Hant": {
-    "current_surplus": "本期剩余",
-    "activity_surplus": "活动剩余",
-    "count_down": "本期倒计时",
+    "current_surplus": "本期剩餘",
+    "activity_surplus": "活動剩餘",
+    "count_down": "本期倒計時",
     "max_num": "对不起，每名用户只能参与一次",
     "close_button_text": "知道了，去看看其它活动",
     "success_tip_title": "恭喜您获得{amount}ETH",
