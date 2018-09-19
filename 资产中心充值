@@ -70,9 +70,9 @@
     "copy_address_tip2": "deposit address",
     "copy_address_tip3": "Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
     "i_konw": "I know",
-    "forecast_record_title": "Deposit History",
-    "forecast_record_recent_30_day": "Recent 30 days",
-    "forecast_record_custom": "Custom"
+    "forecast_record_title": "Запись пополнения баланса",
+    "forecast_record_recent_30_day": "В последние 30 дней",
+    "forecast_record_custom": "Настроить самостоятельно"
   },
   "vi": {
     "deposit_address_title": "{currency} địa chỉ nạp tiền：",
@@ -85,9 +85,9 @@
     "copy_address_tip2": "deposit address",
     "copy_address_tip3": "Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
     "i_konw": "I know",
-    "forecast_record_title": "Deposit History",
-    "forecast_record_recent_30_day": "Recent 30 days",
-    "forecast_record_custom": "Custom"
+    "forecast_record_title": "Nạp tiền dự liệu",
+    "forecast_record_recent_30_day": "Gần nhất 30 ngày",
+    "forecast_record_custom": "Tuỳ chỉnh"
   },
   "zh-Hant": {
     "deposit_address_title": "{currency}充值地址：",
